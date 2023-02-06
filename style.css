@@ -1,0 +1,15 @@
+body {
+   margin: 0;
+   padding-top: 800px;
+   text-align: center; 
+}
+
+.profile{
+    border-radius: 50%;
+}
+#welcome{
+    position: absolute;
+    bottom: 0;
+    background:linear-gradient(#5c76b7 #6a869f) ;
+    
+}
